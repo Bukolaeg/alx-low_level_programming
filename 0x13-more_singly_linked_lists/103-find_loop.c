@@ -1,4 +1,6 @@
 #include "lists.h"
+#include <stdio.h>
+#include <stdlib.h>
 /**
 * find_listint_loop - finds the loop
 * @head: pointer
